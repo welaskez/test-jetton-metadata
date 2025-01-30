@@ -1,6 +1,7 @@
 {
     "name": "Seed #4",
     "image": "https://raw.githubusercontent.com/welaskez/test-jetton-metadata/refs/heads/main/legendary.png",
+    "description": "Starter seed for your intergalactic farm.",
     "attributes": [
         {
             "trait_type": "Rarity",
