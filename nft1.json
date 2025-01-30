@@ -1,0 +1,10 @@
+{
+    "name": "Seed #1",
+    "image": "https://raw.githubusercontent.com/welaskez/test-jetton-metadata/refs/heads/main/common.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
